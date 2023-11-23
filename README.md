@@ -2,6 +2,7 @@ Question A
 -
 
 Question C1
+-
 Menerapkan fitur "Orang yang Mungkin Anda Kenal" melibatkan pendekatan yang cermat terhadap struktur data, skalabilitas, dan pengujian. Berikut adalah deskripsi tingkat tinggi tentang bagaimana saya akan mendekati tugas ini:
 
 Struktur Data:
@@ -57,6 +58,7 @@ Ringkasan:
 Pendekatan yang disarankan memanfaatkan representasi berbasis graf untuk eksplorasi hubungan yang efisien. Dengan menggabungkan penyimpanan cache, pemrosesan batch, dan penanganan kasus khusus yang baik, fitur ini dapat diimplementasikan secara besar-besaran sambil memberikan saran yang bermakna kepada pengguna. Pengujian yang ketat di berbagai tingkatan memastikan kekokohan dan keefektifan solusi yang diimplementasikan.
 
 Question C2
+-
 Untuk menemukan saran terbaik bagi pengguna dalam fitur "Orang yang Mungkin Anda Kenal," diperlukan algoritma yang cermat. Tujuannya adalah memberikan rekomendasi kepada pengguna yang tidak hanya relevan tetapi juga menarik. Berikut adalah pendekatan algoritmik:
 
 1. Representasi Graf:
